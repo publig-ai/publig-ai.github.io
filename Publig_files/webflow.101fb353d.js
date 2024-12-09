@@ -44,7 +44,7 @@
 
   // packages/shared/render/plugins/BaseSiteModules/tram-min.js
   var require_tram_min = __commonJS({
-    "packages/shared/render/plugins/BaseSiteModules/tram-min.js"() {
+    "tram-min.js"() {
       "use strict";
       window.tram = function(a) {
         function b(a2, b2) {
